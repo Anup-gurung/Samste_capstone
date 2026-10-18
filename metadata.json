@@ -1,0 +1,6 @@
+{
+  "name": "ProjectSpace - Student Project Showcase",
+  "description": "A digital exhibition platform celebrating student technical innovation, creative engineering, and research projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
